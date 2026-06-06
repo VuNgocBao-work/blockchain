@@ -1,0 +1,6 @@
+{
+  "name": "He thong Bo phieu Dien tu Blockchain",
+  "description": "Hệ thống bỏ phiếu điện tử trực tuyến cho học sinh, sinh viên sử dụng công nghệ blockchain để kiểm phiếu tự động và chống sửa đổi kết quả.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
