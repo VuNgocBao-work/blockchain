@@ -532,8 +532,8 @@ export default function App() {
             </div>
 
             <div className="mt-5 pt-4 border-t border-slate-100 flex items-center justify-between text-[11px] text-slate-400">
-              <span>Đại học Công Nghệ Quốc Gia</span>
-              <span>Khóa học 2026</span>
+              <span>Đại học Kinh Doanh Và Công Nghệ Hà Nội</span>
+              <span>Năm học 2026</span>
             </div>
           </div>
 
